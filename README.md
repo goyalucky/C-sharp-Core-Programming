@@ -1,51 +1,135 @@
-# C# Core Programming - Day 1
+# csharp-core-programming
 
-Welcome to my **C# Core Programming** repository! This repository contains the Day 1 exercises and practice problems designed to help understand the basics of C# programming and the .NET ecosystem.
-
----
-
-## 🛠 Day 1 Coverage
-
-**Topics Covered:**
-1. Installed **Microsoft Visual Studio** and **.NET SDK**
-2. Understanding the **project structure** of .NET
-3. History and evolution of **C#**
-4. Basics and **syntax** of C#
+This repository contains **basic to intermediate C# programming practice problems**, organized branch-wise and level-wise for structured learning.
+The goal of this project is to strengthen **core programming concepts in C#** through hands-on problem solving.
 
 ---
 
-## 💻 Programming Exercises - Level 1
-
-Here are the programming elements solved in **Day 1**:
-
-| S.No | Program Name                  | Description |
-|------|-------------------------------|-------------|
-| 1    | AverageMarks                  | Calculate the average marks of students |
-| 2    | BasicCalculator               | Perform basic arithmetic operations |
-| 3    | DisplayResults                | Display formatted output |
-| 4    | Distance                       | Calculate distance between points |
-| 5    | DistanceConverterFeet         | Convert distance into feet |
-| 6    | EarthVolume                    | Compute the volume of Earth (sphere) |
-| 7    | EricTravels                    | Travel calculation program |
-| 8    | Fee Discount                   | Calculate discounted fees |
-| 9    | Fee Discount User              | User input-based fee discount |
-| 10   | Handshake Calculator           | Calculate total handshakes in a group |
-| 11   | Harry Age                       | Determine age based on input |
-| 12   | Height Convertor               | Convert height between units |
-| 13   | Km To Miles                     | Convert kilometers to miles |
-| 14   | Pen Distribution               | Distribute pens among students |
-| 15   | Profit & Loss                   | Calculate profit or loss on transactions |
-| 16   | Purchase Calculator            | Calculate total purchase cost |
-| 17   | Square Side                     | Compute side length from area |
-| 18   | Triangle Area                   | Calculate area of a triangle |
+## 🛠 Tech Stack
+- **Language:** C#
+- **Framework:** .NET
+- **Tools:** Visual Studio
+- **Version Control:** Git & GitHub
 
 ---
 
-## ⚡ Skills Practiced
-- C# syntax and basic constructs  
-- Variables, data types, and operators  
-- Conditional statements and loops  
-- User input and output handling  
-- Basic mathematical calculations and conversions  
-- Problem-solving using C#  
+## ✨ Features
+- Structured **level-wise learning approach**
+- Separate branches for different **core concepts**
+- Beginner-friendly **C# practice problems**
+- Focus on **logic building and fundamentals**
 
+---
+
+## 📂 Branch Structure
+
+### 🔹 `programming-elements` branch
+Focuses on **fundamental programming concepts** in C#, covering basic operations, expressions, and logic building through hands-on practice problems.
+
+#### 📁 Levels
+- ## 📘 Level 01 – Programming Basics (C#)
+  This level focuses on **basic programming elements and arithmetic operations** in C#.  
+  The programs help in understanding variables, data types, operators, expressions, and basic user input.
+
+---
+
+### 📝 Practice Problems
+
+- Program to calculate the age of a person given the birth year (current year assumed).
+- Program to calculate the average percentage marks of a student in PCM subjects.
+- Program to calculate profit, loss, and profit percentage using cost price and selling price.
+- Program to divide items equally among students and find the remaining items using division and modulus operators.
+- Program to compute the volume of Earth in cubic kilometers and cubic miles.
+- Program to convert distance from kilometers to miles using user input.
+- Program to calculate discounted course fee by taking fee and discount percentage as user input.
+- Program to convert height from centimeters into feet and inches.
+- Program to build a basic calculator performing addition, subtraction, multiplication, and division on two numbers.
+- Program to find the side length of a square given its perimeter.
+- Program to convert distance from feet into yards and miles.
+- Program to calculate total purchase price using unit price and quantity.
+- Program to find the maximum number of handshakes among a given number of students.
+
+---
+
+### 🎯 Learning Outcomes
+- Understanding variables and data types
+- Using arithmetic, relational, and modulus operators
+- Working with user input and output
+- Applying mathematical formulas in programs
+- Building logical thinking through simple problem-solving
+
+---
+
+- ## 📘 Level 02 – Core Programming Operations (C#)
+  This level focuses on **operator usage, user input handling, arithmetic operations, and logical problem solving** in C#.  
+  The programs emphasize understanding **operator precedence**, **data types**, and **real-world calculations**.
+  
+---
+
+### 📝 Practice Problems
+
+- Program to take two numbers and print their quotient and remainder using division and modulus operators.
+- Program to perform integer operations using three input values and understand operator precedence.
+- Program to convert temperature from Celsius to Fahrenheit using the appropriate formula.
+- Program to convert temperature from Fahrenheit to Celsius using the appropriate formula.
+- Program to calculate the total income of a person by taking salary and bonus as user input.
+- Program to swap two numbers entered by the user.
+- Program to calculate the number of rounds an athlete must complete in a triangular park to cover 5 kilometers.
+- Program to divide chocolates among children and find distributed and remaining chocolates.
+- Program to calculate Simple Interest using principal, rate, and time values.
+- Program to convert weight from pounds to kilograms.
+
+---
+
+### 🎯 Learning Outcomes
+- Understanding arithmetic and modulus operations
+- Working with integer and double data types
+- Applying operator precedence in expressions
+- Taking and validating user input
+- Solving real-world numerical problems using C#
+
+---
+
+### 🔹 `control-flow` branch
+Focuses on **control flow constructs** in C#, including conditional statements and looping mechanisms to implement decision-making and repeated execution in programs.
+
+#### 📁 Levels
+- ## 📘 Level 01 – Control Flow Basics (C#)
+  This level focuses on **decision-making and looping constructs** in C#.  
+  The programs help in understanding `if-else` conditions, `while` loops, `for` loops, and logical flow control through real-world examples.
+
+---
+
+### 📝 Practice Problems
+
+- Program to check whether a given number is divisible by 5.
+- Program to check if the first number is the smallest among three numbers.
+- Program to check whether a given number is a natural number and find the sum of first _n_ natural numbers.
+- Program to check whether a person is eligible to vote based on age.
+- Program to determine whether a number is positive, negative, or zero.
+- Program to check whether a given date falls under the Spring Season.
+- Program to perform a rocket launch countdown using a `while` loop.
+- Program to perform a rocket launch countdown using a `for` loop.
+- Program to find the sum of numbers entered by the user until 0 is entered.
+- Program to calculate the sum of _n_ natural numbers using a `while` loop and verify it with the formula _n × (n + 1) / 2_.
+- Program to calculate the sum of _n_ natural numbers using a `for` loop and verify it with the formula.
+- Program to find the factorial of a number using a `while` loop.
+- Program to find the factorial of a number using a `for` loop.
+- Program to print odd and even numbers from 1 up to a given number.
+- Program to calculate employee bonus based on years of service.
+- Program to generate the multiplication table of a number from 6 to 9.
+
+---
+
+### 🎯 Learning Outcomes
+- Using conditional statements for decision making
+- Working with `for` and `while` loops
+- Understanding loop control and termination
+- Applying logical conditions to real-world problems
+- Strengthening problem-solving and flow control skills
+---
+
+
+## 👤 Author
+**Lucky Goyal**  
+B.Tech CSE (Artificial Intelligence and Machine Learning)  
