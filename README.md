@@ -1,4 +1,4 @@
-# csharp-core-programming
+# Csharp-core-programming
 
 This repository contains **basic to intermediate C# programming practice problems**, organized branch-wise and level-wise for structured learning.
 The goal of this project is to strengthen **core programming concepts in C#** through hands-on problem solving.
