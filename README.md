@@ -129,6 +129,61 @@ Focuses on **control flow constructs** in C#, including conditional statements a
 - Strengthening problem-solving and flow control skills
 ---
 
+- ## 📘 Level 02 – Advanced Control Flow & Logical Programs (C#)
+  This level focuses on **advanced decision-making, loop-based logic, and mathematical problem solving** using C#.  
+  It helps strengthen understanding of **number properties, iteration, conditional logic, and real-world calculations**.
+
+---
+
+### 📝 Practice Problems
+
+- Program to calculate the power of a number using a loop.
+- Program to find all factors of a number entered by the user.
+- Program to find all multiples of a given number below 100.
+- Program to find the greatest factor of a given number.
+- Program to determine the youngest and tallest person among three individuals.
+- Program to calculate Body Mass Index (BMI) and determine health category.
+- Program to implement the classic FizzBuzz problem.
+- Program to check whether a number is prime.
+- Program to check whether a given year is a leap year.
+- Program to take marks of three subjects and calculate average, grade, and remarks.
+
+---
+
+### 🎯 Learning Outcomes
+- Applying loops for repetitive calculations
+- Working with conditional logic for decision making
+- Understanding number classifications and properties
+- Implementing real-world formulas and validations
+- Improving logical thinking and problem-solving skills
+
+---
+
+- ## 📘 Level 03 – Advanced Control Flow & Number Logic (C#)
+  This level focuses on **advanced control flow concepts**, including loop-based digit manipulation, number property checks, formula-based calculations, and decision-making using `switch-case`.
+
+---
+
+### 📝 Practice Problems
+
+- Program to check whether a given number is an Armstrong number using digit extraction and loop-based logic.
+- Program to count the total number of digits in an integer using iterative division.
+- Program to check whether a given number is a Harshad number (divisible by the sum of its digits).
+- Program to check whether a given number is an Abundant number by calculating the sum of its proper divisors.
+- Program to determine the day of the week for a given date using mathematical formulas.
+- Program to create a calculator using the `switch...case` statement for arithmetic operations.
+
+---
+
+### 🎯 Learning Outcomes
+- Applying `while` and `for` loops for digit-based computations
+- Understanding number properties and classifications
+- Implementing mathematical formulas in programs
+- Using `switch...case` for decision-based logic
+- Strengthening problem-solving with control flow constructs
+
+---
+
 
 ## 👤 Author
 **Lucky Goyal**  
