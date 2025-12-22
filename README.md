@@ -184,6 +184,101 @@ Focuses on **control flow constructs** in C#, including conditional statements a
 
 ---
 
+### 🔹 `arrays` branch
+Focuses on mastering array concepts in C#, from basic array operations to advanced real-world problem solving using one-dimensional and multi-dimensional arrays.
+
+#### 📁 Levels
+- ## 📘 Level 01 – Arrays & Multi-Dimensional Arrays (C#)
+  This level focuses on **working with single-dimensional and multi-dimensional arrays** in C#.  
+  The programs help in understanding array creation, indexing, iteration, dynamic resizing, and applying logic using arrays.
+
+---
+
+### 📝 Practice Problems
+
+- Program to create a 2D array (matrix) using user input and copy all its elements into a 1D array.
+- Program to implement FizzBuzz using a string array and display results with index positions.
+- Program to store odd and even numbers between 1 and a given number into separate arrays and display them.
+- Program to find all factors of a number, store them in an array, dynamically resize the array if needed, and display the factors.
+- Program to calculate the mean height of players in a football team using an array.
+- Program to take the ages of 10 students, store them in an array, and check voting eligibility for each student.
+- Program to take user input for 5 numbers, determine whether each number is positive, negative, or zero, check even or odd for positives, and compare the first and last elements.
+- Program to print the multiplication table of a number using an array or loop-based approach.
+
+---
+
+### 🎯 Learning Outcomes
+- Creating and accessing 1D and 2D arrays
+- Using nested loops for matrix operations
+- Dynamic array resizing techniques
+- Applying conditional logic with arrays
+- Solving real-world problems using array data structures
+  
+---
+
+- ## 📘 Level 02 – Advanced Array Applications (C#)
+  This level focuses on **advanced array usage**, including frequency counting, reversing data, multi-dimensional arrays, and real-world data processing scenarios using arrays.
+
+---
+
+### 📝 Practice Problems
+
+- Program to find the frequency of each digit in a given number using an array.
+- Program to take marks of students in Physics, Chemistry, and Maths, calculate percentage, and assign grades using arrays.
+- Program to rewrite the student marks and grading system using a 2D array.
+- Program to reverse a number by storing its digits in an array and displaying them in reverse order.
+- Program to calculate Body Mass Index (BMI) of multiple persons and display height, weight, BMI, and health status.
+- Program to calculate the bonus of 10 employees based on years of service and display total bonus, old salary, and new salary.
+- Program to find the youngest and tallest friend among Amar, Akbar, and Anthony using arrays.
+- Program to store digits of a number in an array and find the largest and second largest digits.
+
+---
+
+### 🎯 Learning Outcomes
+
+- Using arrays for frequency counting and data analysis
+- Working with multi-dimensional arrays
+- Applying validation and re-input logic
+- Solving real-world problems using arrays
+- Strengthening logical and analytical thinking
+
+---
+
+### 🔹 `string` branch
+This branch focuses on string manipulation and exception handling in C#, starting from character-level operations to advanced string problem-solving without relying heavily on built-in methods.
+
+#### 📁 Levels
+- ## 📘 Level 01 – String Fundamentals & Exception Handling (C#)
+  This level introduces core string operations, character-based logic, manual implementations of built-in methods, and common runtime exceptions related to strings and arrays.
+
+---
+
+### 📝 Practice Problems
+
+- Program to compare two strings using character-by-character logic (`string[index]`) and verify the result using `string.Equals()`.
+- Program to create a substring using character indexing and compare the result with `string.Substring()`.
+- Program to return all characters of a string without using `ToCharArray()`.
+- Program to demonstrate `NullReferenceException`.
+- Program to demonstrate `IndexOutOfRangeException`.
+- Program to demonstrate `ArgumentOutOfRangeException`.
+- Program to demonstrate `FormatException`.
+- Program to demonstrate `IndexOutOfRangeException` using arrays.
+- Program to convert text to uppercase using ASCII-based character manipulation and compare it with `string.ToUpper()`.
+- Program to convert text to lowercase using ASCII-based character manipulation and compare it with `string.ToLower()`.
+- Program to split text into words without using `string.Split()` and display each word along with its length using a 2D array.
+
+---
+
+### 🎯 Learning Outcomes
+
+- Understanding string indexing and character-level processing
+- Implementing built-in string methods manually
+- Handling common runtime exceptions in C#
+- Working with ASCII values for character conversion
+- Improving logical thinking using strings
+
+---
+
 
 ## 👤 Author
 **Lucky Goyal**  
