@@ -1,0 +1,14 @@
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Extra_Practice_Problem\Review_practice_problem\obj\Debug\net8.0\Review_practice_problem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Extra_Practice_Problem\Review_practice_problem\obj\Debug\net8.0\Review_practice_problem.AssemblyInfoInputs.cache
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Extra_Practice_Problem\Review_practice_problem\obj\Debug\net8.0\Review_practice_problem.AssemblyInfo.cs
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Extra_Practice_Problem\Review_practice_problem\obj\Debug\net8.0\Review_practice_problem.csproj.CoreCompileInputs.cache
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Extra_Practice_Problem\Review_practice_problem\bin\Debug\net8.0\Review_practice_problem.exe
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Extra_Practice_Problem\Review_practice_problem\bin\Debug\net8.0\Review_practice_problem.deps.json
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Extra_Practice_Problem\Review_practice_problem\bin\Debug\net8.0\Review_practice_problem.runtimeconfig.json
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Extra_Practice_Problem\Review_practice_problem\bin\Debug\net8.0\Review_practice_problem.dll
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Extra_Practice_Problem\Review_practice_problem\bin\Debug\net8.0\Review_practice_problem.pdb
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Extra_Practice_Problem\Review_practice_problem\obj\Debug\net8.0\Review_practice_problem.dll
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Extra_Practice_Problem\Review_practice_problem\obj\Debug\net8.0\refint\Review_practice_problem.dll
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Extra_Practice_Problem\Review_practice_problem\obj\Debug\net8.0\Review_practice_problem.pdb
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Extra_Practice_Problem\Review_practice_problem\obj\Debug\net8.0\Review_practice_problem.genruntimeconfig.cache
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Extra_Practice_Problem\Review_practice_problem\obj\Debug\net8.0\ref\Review_practice_problem.dll
