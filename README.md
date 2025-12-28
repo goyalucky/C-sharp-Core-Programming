@@ -419,6 +419,85 @@ This branch is divided into **three progressive levels**, moving from basic meth
 
 ---
 
+---
+
+### 🔹 `⚙️built-in-functions` branch
+The **built-in-function branch** focuses on solving problems using **modular programming principles** by leveraging **functions and built-in C# utilities**.  
+This branch emphasizes **code reusability, separation of concerns, recursion, and clean program structure**.
+
+---
+
+### 📝 Practice Problems
+
+- Number Guessing Game where:
+  - The computer generates random guesses between 1 and 100
+  - The user provides feedback (high, low, correct)
+  - Functions handle guessing logic, feedback, and next guess decision
+- Program to find the **maximum of three numbers** using separate functions for input and comparison.
+- Program to check whether a number is **prime** using a dedicated function.
+- Program to generate the **Fibonacci sequence** up to a user-defined number of terms using a function.
+- Program to check whether a given string is a **palindrome** using modular functions.
+- Program to calculate **factorial using recursion** with separate input and output logic.
+- Program to calculate **GCD and LCM** of two numbers using individual functions.
+- Program to convert temperatures:
+  - Fahrenheit to Celsius
+  - Celsius to Fahrenheit  
+  using separate conversion functions.
+- Program to implement a **basic calculator**:
+  - Addition
+  - Subtraction
+  - Multiplication
+  - Division  
+  with each operation handled by its own function.
+
+---
+
+### 🎯 Learning Outcomes
+
+- Writing modular and reusable functions
+- Using recursion effectively
+- Applying built-in utilities like `Math` and `Random`
+- Structuring programs with clear separation of logic
+- Strengthening problem-solving and algorithmic thinking
+
+---
+
+### 🔹 `⏰date-and-time` branch
+The **date-and-time branch** focuses on handling **dates, times, time zones, formatting, arithmetic, and comparisons** using C#’s built-in `DateTime`, `DateTimeOffset`, and `TimeZoneInfo` classes.  
+These problems help build a strong foundation for **real-world applications** like scheduling systems, logs, and global applications.
+
+---
+
+### 📝 Practice Problems
+
+- Program to display the current time in different time zones:
+  - GMT (Greenwich Mean Time)
+  - IST (Indian Standard Time)
+  - PST (Pacific Standard Time)
+- Program to perform date arithmetic:
+  - Add 7 days, 1 month, and 2 years to a given date
+  - Subtract 3 weeks from the resulting date
+- Program to display the current date in multiple formats:
+  - `dd/MM/yyyy`
+  - `yyyy-MM-dd`
+  - `EEE, MMM dd, yyyy`
+- Program to compare two dates and determine whether:
+  - The first date is before the second
+  - The first date is after the second
+  - Both dates are the same
+
+---
+
+### 🎯 Learning Outcomes
+
+- Working with `DateTime` and `DateTimeOffset`
+- Handling multiple time zones using `TimeZoneInfo`
+- Performing date arithmetic operations
+- Formatting dates using custom format strings
+- Comparing dates accurately
+
+---
+
 ## 👤 Author
 **Lucky Goyal**  
 B.Tech CSE (Artificial Intelligence and Machine Learning)  
