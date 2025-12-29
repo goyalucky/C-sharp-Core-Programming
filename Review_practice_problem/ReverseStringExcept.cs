@@ -1,3 +1,5 @@
+// Program to reverse a string except for the character '#'.
+
 using System;
 
 class ReverseStringExcept
